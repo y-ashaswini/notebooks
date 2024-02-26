@@ -3,7 +3,7 @@
 Comparative analysis of model fine tuning using the different methods currently available
 
 
-### Loss functions when implemented without using LORA
+### Loss functions when implemented without LORA
 ![Bert](https://github.com/y-ashaswini/notebooks/blob/main/assets/bert_plot.png)
 
 
